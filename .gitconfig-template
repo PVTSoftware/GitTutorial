@@ -1,0 +1,29 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge --skip -- %f
+	process = git-lfs filter-process --skip
+	required = true
+[user]
+	name = john doe
+	nemial = john.doe@gmail.com
+	email = johndoer@yahoo.fr
+[core]
+	editor = notepad
+[http]
+	sslVerify = false
+[winUpdater]
+	recentlySeenVersion = 2.18.0.windows.1
+[credential]
+	helper = manager
+[help]
+	autocorrection = 10
+	autocorrect = 10
+[diff]
+	tool = bc
+[difftool "bc"]
+	path = c:/Program Files/Beyond Compare 4/BComp.exe
+[merge]
+	tool = bc
+[mergetool "bc"]
+	path = C:/Program Files/Beyond Compare 4/BComp.exe
+

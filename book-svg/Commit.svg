@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+	.st1{font-family:'BryantPro-Bold';}
+	.st2{font-size:16px;}
+	.st3{fill:#DAF5DD;}
+	.st4{font-family:'Inconsolata';}
+	.st5{font-size:12px;}
+	.st6{fill:none;stroke:#8F8F8F;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:4,4;}
+	.st7{fill:#8F8F8F;}
+	.st8{fill:none;stroke:#8F8F8F;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st10{fill:#E6EDF6;}
+	.st11{fill:#F6EBEB;}
+	.st12{fill:none;stroke:#8F8F8F;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st13{fill:#5C7492;}
+	.st14{fill:#FFFFFF;}
+	.st15{font-family:'BryantPro-Medium';}
+	.st16{fill:#934B48;}
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="90" y="297" width="432" height="198"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<path class="st0" d="M89.5,296.5h432v198h-432V296.5z M89.5,296.5"/>
+	</g>
+	<text transform="matrix(1 0 0 1 126.9688 314)" class="st1 st2">W</text>
+	<text transform="matrix(1 0 0 1 141.5156 314)" class="st1 st2">orking Direc</text>
+	<text transform="matrix(1 0 0 1 228.3125 314)" class="st1 st2">to</text>
+	<text transform="matrix(1 0 0 1 242.8594 314)" class="st1 st2">ry</text>
+	<text transform="matrix(1 0 0 1 368.3516 314)" class="st1 st2">Git Direc</text>
+	<text transform="matrix(1 0 0 1 431.9844 314)" class="st1 st2">to</text>
+	<text transform="matrix(1 0 0 1 446.5234 314)" class="st1 st2">ry</text>
+	<path class="st3" d="M369,466.5h114.16c5.25,0,9.5,4.25,9.5,9.5l0,0c0,5.25-4.25,9.5-9.5,9.5H369c-5.25,0-9.5-4.25-9.5-9.5l0,0l0,0
+		C359.5,470.75,363.75,466.5,369,466.5L369,466.5z M369,466.5"/>
+	<text transform="matrix(1 0 0 1 381.5781 480)" class="st4 st5">commit : a11bef</text>
+	<line class="st6" x1="223.03" y1="338.25" x2="335.42" y2="338.25"/>
+	<path class="st7" d="M343.42,338.25l-8-3v6L343.42,338.25z M343.42,338.25"/>
+	<path class="st8" d="M343.42,338.25l-8-3v6L343.42,338.25z M343.42,338.25"/>
+	<line class="st9" x1="318.32" y1="312" x2="318.32" y2="456.75"/>
+	<line class="st6" x1="262.82" y1="419.25" x2="336.42" y2="419.25"/>
+	<path class="st7" d="M344.42,419.25l-8-3v6L344.42,419.25z M344.42,419.25"/>
+	<path class="st8" d="M344.42,419.25l-8-3v6L344.42,419.25z M344.42,419.25"/>
+	<path class="st10" d="M368.32,409.75h114.16c5.25,0,9.5,4.25,9.5,9.5l0,0c0,5.25-4.25,9.5-9.5,9.5H368.32c-5.25,0-9.5-4.25-9.5-9.5
+		l0,0l0,0C358.82,414,363.07,409.75,368.32,409.75L368.32,409.75z M368.32,409.75"/>
+	<text transform="matrix(1 0 0 1 386.8984 423.25)" class="st4 st5">tree : fe8971</text>
+	<path class="st10" d="M368.32,328.75h114.16c5.25,0,9.5,4.25,9.5,9.5l0,0c0,5.25-4.25,9.5-9.5,9.5H368.32c-5.25,0-9.5-4.25-9.5-9.5
+		l0,0l0,0C358.82,333,363.07,328.75,368.32,328.75L368.32,328.75z M368.32,328.75"/>
+	<text transform="matrix(1 0 0 1 386.8984 342.25)" class="st4 st5">tree : 1a738d</text>
+	<line class="st6" x1="263.5" y1="366.75" x2="337.1" y2="366.75"/>
+	<path class="st7" d="M345.1,366.75l-8-3v6L345.1,366.75z M345.1,366.75"/>
+	<path class="st8" d="M345.1,366.75l-8-3v6L345.1,366.75z M345.1,366.75"/>
+	<line class="st6" x1="263.5" y1="393.75" x2="337.1" y2="393.75"/>
+	<path class="st7" d="M345.1,393.75l-8-3v6L345.1,393.75z M345.1,393.75"/>
+	<path class="st8" d="M345.1,393.75l-8-3v6L345.1,393.75z M345.1,393.75"/>
+	<line class="st6" x1="301.87" y1="446.75" x2="337.1" y2="446.75"/>
+	<path class="st7" d="M345.1,446.75l-8-3v6L345.1,446.75z M345.1,446.75"/>
+	<path class="st8" d="M345.1,446.75l-8-3v6L345.1,446.75z M345.1,446.75"/>
+	<path class="st11" d="M369,437.25h114.16c5.25,0,9.5,4.25,9.5,9.5l0,0c0,5.25-4.25,9.5-9.5,9.5H369c-5.25,0-9.5-4.25-9.5-9.5l0,0
+		l0,0C359.5,441.5,363.75,437.25,369,437.25L369,437.25z M369,437.25"/>
+	<text transform="matrix(1 0 0 1 387.5781 450.75)" class="st4 st5">blob : a0a60a</text>
+	<path class="st11" d="M369,382.75h114.16c5.25,0,9.5,4.25,9.5,9.5l0,0c0,5.25-4.25,9.5-9.5,9.5H369c-5.25,0-9.5-4.25-9.5-9.5l0,0
+		l0,0C359.5,387,363.75,382.75,369,382.75L369,382.75z M369,382.75"/>
+	<text transform="matrix(1 0 0 1 387.5781 396.25)" class="st4 st5">blob : a906cb</text>
+	<path class="st11" d="M369,355.75h114.16c5.25,0,9.5,4.25,9.5,9.5l0,0c0,5.25-4.25,9.5-9.5,9.5H369c-5.25,0-9.5-4.25-9.5-9.5l0,0
+		l0,0C359.5,360,363.75,355.75,369,355.75L369,355.75z M369,355.75"/>
+	<text transform="matrix(1 0 0 1 387.5781 369.25)" class="st4 st5">blob : a874b7</text>
+	<polyline class="st12" points="108,338.75 108.08,365.75 116.1,365.75 	"/>
+	<path class="st7" d="M124.1,365.75l-8-3v6L124.1,365.75z M124.1,365.75"/>
+	<path class="st8" d="M124.1,365.75l-8-3v6L124.1,365.75z M124.1,365.75"/>
+	<path class="st13" d="M103.5,329.25h116c2.76,0,5,2.24,5,5v9c0,2.76-2.24,5-5,5h-116c-2.76,0-5-2.24-5-5l0,0v-9
+		C98.5,331.49,100.74,329.25,103.5,329.25L103.5,329.25z M103.5,329.25"/>
+	<text transform="matrix(1 0 0 1 157.8047 341.25)" class="st14 st15 st5">./</text>
+	<path class="st16" d="M139.5,356.25h116c2.76,0,5,2.24,5,5v9c0,2.76-2.24,5-5,5h-116c-2.76,0-5-2.24-5-5l0,0v-9
+		C134.5,358.49,136.74,356.25,139.5,356.25L139.5,356.25z M139.5,356.25"/>
+	<text transform="matrix(1 0 0 1 176.3828 368.25)" class="st14 st15 st5">Rakeﬁle</text>
+	<path class="st16" d="M139.5,383.25h116c2.76,0,5,2.24,5,5v9c0,2.76-2.24,5-5,5h-116c-2.76,0-5-2.24-5-5l0,0v-9
+		C134.5,385.49,136.74,383.25,139.5,383.25L139.5,383.25z M139.5,383.25"/>
+	<text transform="matrix(1 0 0 1 172.8594 395.25)" class="st14 st15 st5">README</text>
+	<path class="st13" d="M139.5,410.25h116c2.76,0,5,2.24,5,5v9c0,2.76-2.24,5-5,5h-116c-2.76,0-5-2.24-5-5l0,0v-9
+		C134.5,412.49,136.74,410.25,139.5,410.25L139.5,410.25z M139.5,410.25"/>
+	<text transform="matrix(1 0 0 1 189.0234 422.25)" class="st14 st15 st5">lib</text>
+	<text transform="matrix(1 0 0 1 201.7109 422.25)" class="st14 st15 st5">/</text>
+	<path class="st16" d="M175.5,437.25h116c2.76,0,5,2.24,5,5v9c0,2.76-2.24,5-5,5h-116c-2.76,0-5-2.24-5-5l0,0v-9
+		C170.5,439.49,172.74,437.25,175.5,437.25L175.5,437.25z M175.5,437.25"/>
+	<text transform="matrix(1 0 0 1 202.5234 449.25)" class="st14 st15 st5">simplegit</text>
+	<text transform="matrix(1 0 0 1 251.1875 449.25)" class="st14 st15 st5">.rb</text>
+	<polyline class="st12" points="108,410.75 108.08,446.75 152.1,446.75 	"/>
+	<path class="st7" d="M160.1,446.75l-8-3v6L160.1,446.75z M160.1,446.75"/>
+	<path class="st8" d="M160.1,446.75l-8-3v6L160.1,446.75z M160.1,446.75"/>
+	<polyline class="st12" points="108,383.75 108.08,419.75 116.1,419.75 	"/>
+	<path class="st7" d="M124.1,419.75l-8-3v6L124.1,419.75z M124.1,419.75"/>
+	<path class="st8" d="M124.1,419.75l-8-3v6L124.1,419.75z M124.1,419.75"/>
+	<polyline class="st12" points="108,356.75 108.08,392.75 116.1,392.75 	"/>
+	<path class="st7" d="M124.1,392.75l-8-3v6L124.1,392.75z M124.1,392.75"/>
+	<path class="st8" d="M124.1,392.75l-8-3v6L124.1,392.75z M124.1,392.75"/>
+</g>
+</svg>

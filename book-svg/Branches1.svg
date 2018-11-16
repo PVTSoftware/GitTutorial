@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:#F6EBEB;}
+	.st4{font-family:'Inconsolata';}
+	.st5{font-size:10px;}
+	.st6{fill:#DAF5DD;}
+	.st7{fill:#E6EDF6;}
+	.st8{fill:#D5D5D5;}
+	.st9{font-family:'Stratum1-Thin';}
+	.st10{font-size:100px;}
+	.st11{fill:#F0F0F0;}
+	.st12{fill:#898989;}
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="225" y="315" width="162" height="162"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<path class="st0" d="M224.5,314.5h162v162h-162V314.5z M224.5,314.5"/>
+	</g>
+	<line class="st1" x1="259.42" y1="380" x2="259.42" y2="393.72"/>
+	<path d="M259.42,401.72l3-8h-6L259.42,401.72z M259.42,401.72"/>
+	<path class="st2" d="M259.42,401.72l3-8h-6L259.42,401.72z M259.42,401.72"/>
+	<path class="st3" d="M241.42,444h35c4.14,0,7.5,3.81,7.5,8.5c0,4.69-3.36,8.5-7.5,8.5h-35c-4.14,0-7.5-3.81-7.5-8.5
+		C233.92,447.81,237.28,444,241.42,444"/>
+	<text transform="matrix(1 0 0 1 249.4219 455.5)" class="st4 st5">blob</text>
+	<path class="st6" d="M237.05,362.5h43.75c5.17,0,9.37,3.81,9.37,8.5s-4.2,8.5-9.37,8.5h-43.75c-5.17,0-9.38-3.81-9.38-8.5
+		S231.87,362.5,237.05,362.5"/>
+	<text transform="matrix(1 0 0 1 244.4219 374)" class="st4 st5">commit</text>
+	<path class="st2" d="M259.42,444v-23.38 M259.42,444v-10 M255.42,444l4-10l4,10"/>
+	<path class="st7" d="M241.42,403.12h35c4.14,0,7.5,3.81,7.5,8.5c0,4.69-3.36,8.5-7.5,8.5h-35c-4.14,0-7.5-3.81-7.5-8.5
+		C233.92,406.93,237.28,403.12,241.42,403.12"/>
+	<text transform="matrix(1 0 0 1 249.4219 414.6172)" class="st4 st5">tree</text>
+	<path class="st6" d="M345.16,402.11h26.25c3.1,0,5.63,3.81,5.63,8.5s-2.52,8.5-5.63,8.5h-26.25c-3.11,0-5.63-3.81-5.63-8.5
+		S342.05,402.11,345.16,402.11"/>
+	<text transform="matrix(1 0 0 1 353.7813 413.6094)" class="st4 st5">C1</text>
+	<text transform="matrix(1 0 0 1 303.0234 444)" class="st8 st9 st10">}</text>
+	<path class="st11" d="M233.92,320.5h50v17h-50V320.5z M233.92,320.5"/>
+	<text transform="matrix(1 0 0 1 244.4219 332)" class="st12 st4 st5">branch</text>
+	<line class="st1" x1="259.42" y1="338" x2="259.42" y2="353.1"/>
+	<path d="M259.42,361.1l3-8h-6L259.42,361.1z M259.42,361.1"/>
+	<path class="st2" d="M259.42,361.1l3-8h-6L259.42,361.1z M259.42,361.1"/>
+	<path class="st11" d="M333.28,319.5h50v17h-50V319.5z M333.28,319.5"/>
+	<text transform="matrix(1 0 0 1 343.7813 331)" class="st12 st4 st5">branch</text>
+	<line class="st1" x1="358.78" y1="337" x2="358.78" y2="392.71"/>
+	<path d="M358.78,400.71l3-8h-6L358.78,400.71z M358.78,400.71"/>
+	<path class="st2" d="M358.78,400.71l3-8h-6L358.78,400.71z M358.78,400.71"/>
+</g>
+</svg>

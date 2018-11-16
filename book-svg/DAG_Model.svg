@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:#F6EBEB;}
+	.st4{font-family:'Inconsolata';}
+	.st5{font-size:10px;}
+	.st6{fill:#F0F0F0;}
+	.st7{fill:#898989;}
+	.st8{fill:#FFFFFF;}
+	.st9{fill:#DAF5DD;}
+	.st10{fill:#E6EDF6;}
+	.st11{fill:#F6F4DE;}
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="216" y="306" width="180" height="180"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<path class="st0" d="M215.5,305.5h180v180h-180V305.5z M215.5,305.5"/>
+	</g>
+	<line class="st1" x1="310.84" y1="403.5" x2="310.84" y2="415.22"/>
+	<path d="M310.84,423.22l3-8h-6L310.84,423.22z M310.84,423.22"/>
+	<path class="st2" d="M310.84,423.22l3-8h-6L310.84,423.22z M310.84,423.22"/>
+	<path class="st3" d="M292.84,464.5h35c4.14,0,7.5,3.81,7.5,8.5s-3.36,8.5-7.5,8.5h-35c-4.14,0-7.5-3.81-7.5-8.5
+		S288.7,464.5,292.84,464.5"/>
+	<text transform="matrix(1 0 0 1 300.8438 476)" class="st4 st5">blob</text>
+	<path class="st6" d="M285.34,348.5h50v17h-50V348.5z M285.34,348.5"/>
+	<text transform="matrix(1 0 0 1 295.8438 360)" class="st7 st4 st5">branch</text>
+	<path class="st6" d="M290.34,307.5h40v17h-40V307.5z M290.34,307.5"/>
+	<text transform="matrix(1 0 0 1 300.8438 319)" class="st7 st4 st5">HEAD</text>
+	<line class="st1" x1="310.84" y1="366" x2="310.84" y2="376.6"/>
+	<path d="M310.84,384.6l3-8h-6L310.84,384.6z M310.84,384.6"/>
+	<path class="st2" d="M310.84,384.6l3-8h-6L310.84,384.6z M310.84,384.6"/>
+	<line class="st1" x1="310.84" y1="325" x2="310.84" y2="339.1"/>
+	<path d="M310.84,347.1l3-8h-6L310.84,347.1z M310.84,347.1"/>
+	<path class="st2" d="M310.84,347.1l3-8h-6L310.84,347.1z M310.84,347.1"/>
+	<path class="st8" d="M356.9,385.1c5.47,5.47,5.47,14.33,0,19.8c-5.47,5.47-14.33,5.47-19.8,0c-5.47-5.47-5.47-14.33,0-19.8
+		C342.57,379.63,351.43,379.63,356.9,385.1"/>
+	<path class="st1" d="M356.9,385.1c5.47,5.47,5.47,14.33,0,19.8c-5.47,5.47-14.33,5.47-19.8,0c-5.47-5.47-5.47-14.33,0-19.8
+		C342.57,379.63,351.43,379.63,356.9,385.1"/>
+	<path class="st9" d="M288.46,386h43.75c5.18,0,9.38,3.81,9.38,8.5c0,4.69-4.2,8.5-9.38,8.5h-43.75c-5.18,0-9.38-3.81-9.38-8.5
+		C279.09,389.81,283.29,386,288.46,386"/>
+	<text transform="matrix(1 0 0 1 295.8438 397.5)" class="st4 st5">commit</text>
+	<path class="st6" d="M218.75,348.5h50v17h-50V348.5z M218.75,348.5"/>
+	<text transform="matrix(1 0 0 1 229.25 360)" class="st7 st4 st5">remote</text>
+	<line class="st1" x1="259.34" y1="366" x2="287.12" y2="381.64"/>
+	<path d="M294.09,385.57l-5.5-6.54l-2.94,5.23L294.09,385.57z M294.09,385.57"/>
+	<path class="st2" d="M294.09,385.57l-5.5-6.54l-2.94,5.23L294.09,385.57z M294.09,385.57 M310.84,464.5v-22.38 M310.84,464.5v-10
+		 M306.84,464.5l4-10l4,10"/>
+	<path class="st8" d="M347.9,423.6c5.47,5.47,5.47,14.33,0,19.8c-5.47,5.47-14.33,5.47-19.8,0c-5.47-5.47-5.47-14.33,0-19.8
+		S342.43,418.13,347.9,423.6"/>
+	<path class="st1" d="M347.9,423.6c5.47,5.47,5.47,14.33,0,19.8c-5.47,5.47-14.33,5.47-19.8,0c-5.47-5.47-5.47-14.33,0-19.8
+		C333.57,418.13,342.43,418.13,347.9,423.6"/>
+	<path class="st10" d="M292.84,424.62h35c4.14,0,7.5,3.81,7.5,8.5s-3.36,8.5-7.5,8.5h-35c-4.14,0-7.5-3.81-7.5-8.5
+		S288.7,424.62,292.84,424.62"/>
+	<text transform="matrix(1 0 0 1 300.8438 436.125)" class="st4 st5">tree</text>
+	<path class="st11" d="M357.06,348.5h30.63c3.62,0,6.56,3.81,6.56,8.5s-2.94,8.5-6.56,8.5h-30.63c-3.62,0-6.56-3.81-6.56-8.5
+		S353.44,348.5,357.06,348.5"/>
+	<text transform="matrix(1 0 0 1 365.375 360)" class="st4 st5">tag</text>
+	<line class="st1" x1="358.81" y1="366" x2="333.37" y2="381.38"/>
+	<path d="M326.53,385.52l8.4-1.57l-3.1-5.13L326.53,385.52z M326.53,385.52"/>
+	<path class="st2" d="M326.53,385.52l8.4-1.57l-3.1-5.13L326.53,385.52z M326.53,385.52"/>
+</g>
+</svg>
